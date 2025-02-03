@@ -25,10 +25,10 @@ Bienvenido a **Fraternitas Ignis Sacri**, una comunidad forjada en el fuego de l
 
 ## Objetivos
 
-- **Crecimiento Personal:** Fomentar la autodisciplina y el desarrollo integral de cada hermano.
-- **Evolución Espiritual:** Explorar y compartir herramientas para la transformación interior.
-- **Fortaleza Comunitaria:** Construir una red de apoyo basada en el respeto, la lealtad y la responsabilidad.
-- **Acción y Disciplina:** Promover un estilo de vida basado en la honestidad, la valentía y el compromiso.
+- **⚔️ Crecimiento Personal:** Fomentar la autodisciplina y el desarrollo integral de cada hermano.
+- **🔥 Evolución Espiritual:** Explorar y compartir herramientas para la transformación interior.
+- **🛡️ Fortaleza Comunitaria:** Construir una red de apoyo basada en el respeto, la lealtad y la responsabilidad.
+- **💪 Acción y Disciplina:** Promover un estilo de vida basado en la honestidad, la valentía y el compromiso.
 
 ---
 
@@ -242,7 +242,7 @@ Si sientes el llamado del fuego y estás listo para forjar tu camino en una comu
 3. **Preséntate en el canal de bienvenida y comparte tu compromiso de crecimiento.**
 
 Si eres mujer y recibes este mensaje, te invitamos a extender la invitación a los hombres en tu vida —padres, hermanos, amigos— para que encuentren su lugar en esta comunidad.
-
++
 ---
 
 ## Contribuciones
