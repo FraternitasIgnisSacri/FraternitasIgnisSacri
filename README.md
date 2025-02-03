@@ -226,7 +226,7 @@ Bienvenido a **Fraternitas Ignis Sacri**, una comunidad forjada en el fuego de l
 
 ## Reglas del Servidor
 
-Nuestra hermandad se rige por un estricto código de conducta que nos obliga a ser honestos, directos y responsables. Te invitamos a [consultar las reglas completas aquí](./REGLAS.md) para mantener el orden y la integridad en cada interacción.
+Nuestra hermandad se rige por un estricto código de conducta que nos obliga a ser honestos, directos y responsables. Te invitamos a [consultar las reglas completas aquí](./CODEX_MORUM.md) para mantener el orden y la integridad en cada interacción.
 
 ---
 
